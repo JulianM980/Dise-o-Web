@@ -4,15 +4,20 @@
 	font-size: 30px;
 }
 
-h2{
-	background-color: red;
-	display: inline-block;
-	padding: 100px;
-	margin: 10px;
-	border: 4px ridge gray;
-	box-shadow: 2px 4px 15px 0 #000;
+.caja{
+	width: 200px;
+	height: 200px;
+	background: red;
+	margin: auto;
+	outline: 10px solid blue;
+	box-sizing: content-box
 }
 
-
+.caja1{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	margin: auto;
+}
 
 
